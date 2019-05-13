@@ -7,6 +7,6 @@ import 'hammerjs';
 if (environment.production) {
   enableProdMode();
 }
-Bhola
-
+// -bhola
 platformBrowserDynamic().bootstrapModule(AppModule);
+  
